@@ -6,5 +6,6 @@ Kiln-Net: A Gated Neural Network for Detection of Brick Kilns in South Asia: htt
 
 Survey of Image Based Graph Neural Networks: https://arxiv.org/abs/2106.06307
 
+Superpixels GCN: MNIST superpixel classification using Graph Convolution Neural Network (GCN)
 
 
