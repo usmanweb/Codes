@@ -11,7 +11,11 @@
 
 
 References: 
+
 https://pytorch-geometric.readthedocs.io/en/latest/modules/transforms.html#torch_geometric.transforms.ToSLIC
+
 https://arxiv.org/abs/1907.09000
+
 https://arxiv.org/abs/2002.05544
+
 https://arxiv.org/abs/2002.05544
