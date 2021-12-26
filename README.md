@@ -6,7 +6,7 @@
 
 - Survey of Image Based Graph Neural Networks: https://arxiv.org/abs/2106.06307
 
-- Superpixels GCN: MNIST superpixel classification using Graph Convolution Neural Network (GCN)
+Demo Experiment: MNIST Superpixels GCN: MNIST superpixel classification using Graph Convolution Neural Network (GCN)
 
 
 
