@@ -6,11 +6,12 @@
 
 - Survey of Image Based Graph Neural Networks: https://arxiv.org/abs/2106.06307
 
+-Using 3D Residual Network for Spatio-temporal Analysis of Remote Sensing Data: https://ieeexplore.ieee.org/document/8682286
+
+
 Demo Experiment: MNIST Superpixels GCN: MNIST superpixel classification using Graph Convolution Neural Network (GCN)
 
-
-
-References: 
+Demo Experiment References: 
 
 https://pytorch-geometric.readthedocs.io/en/latest/modules/transforms.html#torch_geometric.transforms.ToSLIC
 
@@ -19,3 +20,5 @@ https://arxiv.org/abs/1907.09000
 https://arxiv.org/abs/2002.05544
 
 https://arxiv.org/abs/2002.05544
+
+Blog: https://medium.com/@rtsrumi07/understanding-graph-neural-network-with-hands-on-example-part-2-139a691ebeac
