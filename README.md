@@ -4,7 +4,7 @@
 
 - Kiln-Net: A Gated Neural Network for Detection of Brick Kilns in South Asia: https://ieeexplore.ieee.org/document/9115879
 
-- Survey of Image Based Graph Neural Networks: https://arxiv.org/abs/2106.06307
+- Survey of Image Based Graph Neural Networks: https://arxiv.org/abs/2106.06307 (coming soon)
 
 - Using 3D Residual Network for Spatio-temporal Analysis of Remote Sensing Data: https://ieeexplore.ieee.org/document/8682286
 
