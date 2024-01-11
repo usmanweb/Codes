@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Object-Detection/data/train
+val: /content/drive/MyDrive/Object-Detection/data/val
+
+nc: 1
+
+names: ["cat"]
